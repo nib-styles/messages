@@ -1,0 +1,32 @@
+.Message-error {
+  background: #FFC2C2;
+  border: 1px solid #FF8F8F;
+  color: #8F0000;
+  box-shadow: inset 0 0 2px #FFF;
+}
+
+.Message-warning {
+  background: #FCF8CC;
+  border: 1px solid #FEE000;
+  color: #CF5300;
+  box-shadow: inset 0 0 2px #FFF;
+}
+
+.Message-success {
+  background: #EEF9EB;
+  border: 1px solid #93CA85;
+  color: #1F7C07;
+}
+
+.Message-inverseBox {
+  background: #444;
+  color: #fff;
+}
+
+.Message-rounded {
+  border-radius: 5px;
+}
+
+.Message-info {
+  background: url('images/stripes.png');
+}

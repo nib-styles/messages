@@ -1,0 +1,6 @@
+{
+  "name": "messages",
+  "version": "0.1.0",
+  "styles": ["index.css"],
+  "images": ["images/stripes.png"]
+}
